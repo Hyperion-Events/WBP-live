@@ -6,6 +6,8 @@ One important part of the show is our motto "participate instead of just consumi
 
 This repository contains all the code for that app.
 
+:D
+
 ## Getting Started
 
 Make sure to [install Meteor](https://docs.meteor.com/install.html) first.
