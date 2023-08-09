@@ -7,7 +7,6 @@ One important part of the show is our motto "participate instead of just consumi
 This repository contains all the code for that app.
 
 :D xD xD FANCY!!!1!
-:-()
 
 ## Getting Started
 
