@@ -35,7 +35,7 @@ export default {
   jwz: {
     headline: 'Jedes Wort Zählt',
     text:
-      'Am 01. November findet wieder der südlichste Poetry-Slam Nordbrandenburgs statt. Seien Sie mit dabei und lassen Sie sich rechtzeitig erinnern.',
+      'Am 25. November findet wieder der südlichste Comedy-Slam Nordbrandenburgs statt. Seien Sie mit dabei und lassen Sie sich rechtzeitig erinnern.',
   },
   facebook: {
     headline: 'Auf Facebook liken',
