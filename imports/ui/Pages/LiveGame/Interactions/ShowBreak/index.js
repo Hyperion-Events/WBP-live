@@ -124,13 +124,13 @@ const ShowBreak = ({
         />
       )}
       <ActionBox
-        className={classes.facebook}
-        headline={texts.facebook.headline}
-        text={texts.facebook.text}
+        className={classes.htq}
+        headline={texts.htq.headline}
+        text={texts.htq.text}
         buttonText="Seite öffnen"
         onButtonClick={() => {
-          setFlag('clickedFacebook');
-          window.open('https://www.facebook.com/werbesiegtpaul', '_blank');
+          setFlag('clickedHtq');
+          window.open('https://hyperion-teamquiz.de', '_blank');
         }}
       />
       <ActionBox
@@ -193,11 +193,11 @@ const styles = {
   paypal: {
     backgroundImage: 'linear-gradient(#FF9800 0%, #FF5722 100%)',
   },
-  facebook: {
-    backgroundImage: 'linear-gradient(#287DED 0%, #074A8D 100%)',
+  htq: {
+    backgroundImage: 'linear-gradient(#2a024f 0%, #2a024f 100%)',
   },
   jwz: {
-    backgroundImage: 'linear-gradient(#9F4DEC 0%, #4F0C96 100%)',
+    backgroundImage: 'linear-gradient(#63abae 0%, #63abae 100%)',
   },
   cocktailCoupon: {
     backgroundImage: 'linear-gradient(#80B501 0%, #299B0A 100%)',

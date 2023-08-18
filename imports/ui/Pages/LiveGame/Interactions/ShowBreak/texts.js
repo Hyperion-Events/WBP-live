@@ -33,13 +33,13 @@ export default {
       'Wir machen es uns zur Aufgabe, möglichst vielen Menschen den Zugang zu Kunst und Kultur zu ermöglichen. Neben Wer besiegt Paul? veranstalten wir Konzerte, Poetry Slams und Wissensturniere. Bleiben Sie informiert!',
   },
   jwz: {
-    headline: 'Jedes Wort Zählt',
+    headline: 'Jeder Witz Zählt',
     text:
       'Am 25. November findet wieder der südlichste Comedy-Slam Nordbrandenburgs statt. Seien Sie mit dabei und lassen Sie sich rechtzeitig erinnern.',
   },
-  facebook: {
-    headline: 'Auf Facebook liken',
+  htq: {
+    headline: 'Hyperion Teamquiz',
     text:
-      'Auf keinen Fall vergessen: Auf Facebook gibt es neben phänomenalen behind-the-scenes auch heiße Gewinnspiele.',
+      'Fragen über Fragen beim Hyperion Teamquiz',
   },
 };
